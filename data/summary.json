@@ -1,6 +1,6 @@
 [
   {
-    "Species": "Adelie",
+    "species": "Adelie",
     "lower": 2850,
     "q1": 3350,
     "median": 3700,
@@ -9,7 +9,7 @@
     "outliers": []
   },
   {
-    "Species": "Chinstrap",
+    "species": "Chinstrap",
     "lower": 2700,
     "q1": 3487.5,
     "median": 3700,
@@ -18,7 +18,7 @@
     "outliers": [2700, 4800]
   },
   {
-    "Species": "Gentoo",
+    "species": "Gentoo",
     "lower": 3950,
     "q1": 4700,
     "median": 5000,
